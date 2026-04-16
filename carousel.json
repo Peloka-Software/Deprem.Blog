@@ -4,17 +4,17 @@
         {
             "title": "Deprem anında ne yapmalısın?",
             "description": "Deprem anında panik yapmadan, soğukkanlılığını koruyarak hareket etmelisin. Güvenli bir yere sığınmalı ve başını korumalısın.",
-            "image": "https://raw.githubusercontent.com/Peloka-Software/Deprem.Blog/refs/heads/main/carousel_1.webp"
+            "image": "https://cdn.jsdelivr.net/gh/Peloka-Software/Deprem.Blog@main/carousel_1.webp"
         },
         {
             "title": "Deprem sonrası ne yapmalısın?",
             "description": "Deprem sonrası, artçı sarsıntılara karşı dikkatli olmalı ve güvenli bir yerde kalmalısın. Ayrıca, acil durum çantanı kontrol etmeli ve ihtiyaç duyabileceğin malzemeleri hazır bulundurmalısın.",
-            "image": "https://raw.githubusercontent.com/Peloka-Software/Deprem.Blog/refs/heads/main/carousel_2.webp"
+            "image": "https://cdn.jsdelivr.net/gh/Peloka-Software/Deprem.Blog@main/carousel_2.webp"
         },
         {
             "title": "Deprem öncesi ne yapmalısın?",
             "description": "Deprem öncesi, evini ve iş yerini depreme karşı güçlendirmeli, acil durum planı yapmalı ve deprem çantası hazırlamalısın. Ayrıca, deprem anında güvenli bir yerde bulunmayı öğrenmelisin.",
-            "image": "https://raw.githubusercontent.com/Peloka-Software/Deprem.Blog/refs/heads/main/carousel_3.webp"
+            "image": "https://cdn.jsdelivr.net/gh/Peloka-Software/Deprem.Blog@main/carousel_3.webp"
         }
     ]
 }
