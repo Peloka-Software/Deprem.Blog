@@ -1,6 +1,6 @@
 # Sismik İzolatörlü Yapılar: Depremle Mücadelenin En Akıllı Yolu
 
-Türkiye, dünyanın en aktif deprem kuşaklarından biri üzerinde yer alıyor. 1999 Marmara Depremi, 2020 İzmir Depremi ve 2023 Kahramanmaraş depremleri bize çok net bir şey gösterdi:  
+Türkiye, dünyanın en aktif deprem kuşaklarından biri üzerinde yer alıyor. 1999 Marmara Depremi, 2020 İzmir Depremi ve 2023 Kahramanmaraş depremleri bize çok net bir şey gösterdi:
 Deprem öldürmez, dayanıksız binalar öldürür.
 
 Peki modern mühendislik bu soruna nasıl çözüm üretiyor?
@@ -19,7 +19,7 @@ Amaç şudur:
 
 > Depremin enerjisinin doğrudan binaya aktarılmasını engellemek.
 
-Normal bir binada deprem dalgaları doğrudan kolonlara ve kirişlere yük bindirir.  
+Normal bir binada deprem dalgaları doğrudan kolonlara ve kirişlere yük bindirir.
 Sismik izolatörlü yapılarda ise bina ile zemin arasına adeta bir “tampon katman” eklenir.
 
 Bu sistem sayesinde:
@@ -33,7 +33,7 @@ Bu sistem sayesinde:
 
 ## Depremde Nasıl Çalışır?
 
-Deprem sırasında zemin hareket eder.  
+Deprem sırasında zemin hareket eder.
 Normal bir bina bu hareketi birebir hisseder.
 
 Sismik izolatörlü binadaysa durum farklıdır:
