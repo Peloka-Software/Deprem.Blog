@@ -1,13 +1,13 @@
-# Sismik İzolatörlü Yapılar: Depremle Mücadelenin En Akıllı Yolu
+# Sismik İzolatörlü Yapılar: Depreme Karşı Akıllı Bir Mühendislik Çözümü
 
 Türkiye, dünyanın en aktif deprem kuşaklarından biri üzerinde yer alıyor. 1999 Marmara Depremi, 2020 İzmir Depremi ve 2023 Kahramanmaraş depremleri bize çok net bir şey gösterdi:
 Deprem öldürmez, dayanıksız binalar öldürür.
 
 Peki modern mühendislik bu soruna nasıl çözüm üretiyor?
 
-Son yıllarda adını daha sık duyduğumuz bir teknoloji var: **Sismik İzolatörler**.
+Adını sıkça duyduğumuz bir teknoloji var: **Sismik İzolatörler**.
 
-Bu teknoloji sayesinde bazı binalar deprem sırasında adeta “yüzüyor” gibi davranıyor. Hastaneler, havaalanları, gökdelenler ve kritik yapılar büyük depremlerden minimum hasarla çıkabiliyor.
+Bu teknoloji sayesinde bazı binalar deprem sırasında adeta “yüzüyor” gibi davranıyor. Hastaneler, havalimanları, gökdelenler ve kritik yapılar büyük depremlerden bu sayede minimum hasarla çıkabiliyor.
 
 ---
 
@@ -17,44 +17,22 @@ En basit anlatımla sismik izolatör, binanın temel kısmına yerleştirilen ö
 
 Amaç şudur:
 
-> Depremin enerjisinin doğrudan binaya aktarılmasını engellemek.
-
-Normal bir binada deprem dalgaları doğrudan kolonlara ve kirişlere yük bindirir.
-Sismik izolatörlü yapılarda ise bina ile zemin arasına adeta bir “tampon katman” eklenir.
-
-Bu sistem sayesinde:
-
-- Binanın sallanması azalır
-- Yapısal hasar minimuma iner
-- İçerideki insanlar daha güvende olur
-- Hastane gibi kritik yapılar çalışmaya devam eder
+> Depremin enerjisinin binaya doğrudan aktarılmasını engellemek.
 
 ---
 
-## Depremde Nasıl Çalışır?
+### Görsel — Sismik İzolatör
 
-Deprem sırasında zemin hareket eder.
-Normal bir bina bu hareketi birebir hisseder.
-
-Sismik izolatörlü binadaysa durum farklıdır:
-
-- Zemin hareket eder
-- İzolatör bu hareketi emer
-- Üst yapı daha az etkilenir
-
-Bir anlamda otomobillerdeki süspansiyon sisteminin bina versiyonu gibi düşünebilirsiniz.
+![Sismik İzolatör](https://cdn.jsdelivr.net/gh/Peloka-Software/Deprem.Blog@main/blog/posts/1/1.webp)
 
 ---
 
-## Görsel — Sismik İzolatör Sistemi
+## Türkiye İçin Neden Bu Kadar Önemli?
 
-![Sismik İzolatör Sistemi](https://cdn.jsdelivr.net/gh/Peloka-Software/Deprem.Blog@main/blog/posts/1/1.webp)
+Türkiye’de milyonlarca insan aktif fay hatlarının yakınında, hatta üstünde yaşıyor.
 
----
-
-# Türkiye İçin Neden Bu Kadar Önemli?
-
-Türkiye’de milyonlarca insan aktif fay hatlarının yakınında yaşıyor.
+> **Biliyor muydunuz?**  
+> Evinizin yakınında aktif bir fay olup olmadığını uygulamamızın **ASİSTAN** sekmesinde bulunan "**MTA Fay Haritası**" aracı ile kontrol edebilirsiniz. 
 
 Özellikle:
 
@@ -65,90 +43,108 @@ Türkiye’de milyonlarca insan aktif fay hatlarının yakınında yaşıyor.
 * Bursa
 * Kocaeli
 
-gibi şehirlerde büyük deprem riski bulunuyor.
+gibi şehirlerimizde büyük deprem riski bulunuyor.
 
-Bu yüzden yeni nesil yapılarda yalnızca “yıkılmamak” yeterli görülmüyor.
+Yeni nesil yapılarda yalnızca “yıkılmamak” yeterli görülmüyor.
 
 Artık hedef:
 
 > Deprem sonrası binanın kullanılabilir kalması.
 
-Örneğin bir hastane depremden sonra ayakta kalıp çalışamıyorsa, bu büyük bir problem demektir.
+Hastaneler gibi kritik yapıların deprem sonrasında kesintisiz hizmet vermeye devam edebilmesi gerekiyor.
 
 İşte sismik izolatörler tam burada devreye giriyor.
 
 ---
 
-# Sismik İzolatör Türleri
+## Depremde Anında Nasıl Çalışır?
 
-## 1. Kurşun Çekirdekli Kauçuk İzolatörler (LRB)
+Deprem anında zemin hareket eder.
 
-En yaygın kullanılan sistemlerden biridir.
+Sıradan bir bina bu hareketi birebir hisseder.
 
-İçerisinde:
+Sismik izolatörlü binadaysa durum farklıdır:
 
-* Çelik katmanlar
-* Kauçuk tabakalar
-* Kurşun çekirdek
+* İzolatör, zeminin hareketini sönümler,
+* Enerji üst yapıya kontrollü bir şekilde aktarılır.
 
-bulunur.
+Bir anlamda otomobillerdeki süspansiyon sisteminin bina versiyonu gibi düşünebilirsiniz.
 
-Avantajları:
+Özellikle ameliyathaneler, yoğun bakımlar ve veri merkezleri için bu fark hayati önem taşır.
 
-* Deprem enerjisini emer
-* Yatay hareketi azaltır
+---
+
+### Görsel — Deprem Anı Karşılaştırması
+
+![Karşılaştırmalı Deprem Etkisi](https://cdn.jsdelivr.net/gh/Peloka-Software/Deprem.Blog@main/blog/posts/1/2.webp)
+
+---
+
+## Sismik İzolatör Türleri
+
+Deprem sırasında binanın hareketini kontrol etmek için farklı türlerde sismik izolatörler kullanılır. En yaygın sistemler şunlardır:
+
+---
+
+### 1. Kurşun Çekirdekli Kauçuk İzolatörler
+
+Çelik ve kauçuk katmanlardan oluşur. Ortasında bulunan kurşun çekirdek, deprem sırasında oluşan hareketin enerjisinin sönümlenmesine yardımcı olur.
+
+**Avantajları:**
+
+* Deprem enerjisini sönümler
+* Yatay hareketi kontrollü hale getirir
+* Yüksek taşıma kapasitesine sahiptir
 * Uzun ömürlüdür
 
 ---
 
-## 2. Sürtünmeli Sarkaç Sistemleri (FPS)
+### 2. Yüksek Sönümlü Kauçuk İzolatörler
 
-Bu sistemde bina kontrollü şekilde kayar.
+Çelik ve özel olarak geliştirilmiş yüksek sönümlü kauçuk katmanlardan oluşur. Kurşun çekirdek yerine kauçuğun kendi özelliklerinden yararlanarak deprem hareketini sönümler.
 
-Mantık şudur:
+**Avantajları:**
 
-* Deprem enerjisi sürtünme ile dağıtılır
-* Yapı üzerindeki ani yük azalır
-
-Özellikle:
-
-* Havalimanlarında
-* Devasa kamu yapılarında
-* Köprülerde
-
-tercih edilir.
+* Esnek ve dayanıklıdır
+* Deprem hareketini sönümler
+* Kurşun çekirdek içermez
+* Farklı bina tiplerinde kullanılabilir
 
 ---
 
-## Görsel — İzolatör Yakın Planı
+### 3. Sürtünmeli Sarkaç Sistemleri
 
-![Sismik İzolatör Yakın Plan](https://cdn.jsdelivr.net/gh/Peloka-Software/Deprem.Blog@main/blog/posts/1/2.webp)
+Bina, özel bir konkav yüzey üzerinde kontrollü şekilde hareket eder. Sürtünme enerjinin sönümlenmesine, sarkaç hareketi ise binanın yeniden merkezlenmesine yardımcı olur.
 
----
+**Avantajları:**
 
-# Dünyadan Çarpıcı Örnekler
-
-## Japonya
-
-Japonya bu teknolojinin liderlerinden biri.
-
-Tokyo’daki birçok gökdelen ve hastane sismik izolasyon sistemi kullanıyor.
-
-Bazı yapılarda insanlar deprem olduğunu bile zor hissediyor.
+* Büyük deprem hareketlerini karşılayabilir
+* Kontrollü yatay hareket sağlar
+* Yüksek taşıma kapasitesine sahiptir
+* Hastane, kamu binası ve köprü gibi yapılarda kullanılabilir
 
 ---
 
-## ABD
+### 4. Doğal Kauçuk İzolatörler
 
-Özellikle California eyaletinde:
+Doğal kauçuk ve çelik katmanlardan oluşur. Kauçuğun esnekliği sayesinde binanın deprem sırasında zeminden bağımsız olarak hareket etmesine yardımcı olur.
 
-* Hastaneler
-* Veri merkezleri
-* Kritik kamu binaları
+**Avantajları:**
 
-sismik izolasyon sistemleriyle inşa ediliyor.
+* Basit ve dayanıklı bir yapıya sahiptir
+* Yüksek esneklik sağlar
+* Uzun süre kullanılabilir
+* Farklı izolasyon sistemleriyle birlikte kullanılabilir
 
 ---
+
+### Kısaca
+
+Hangi izolatörün kullanılacağı; binanın **yüküne, yüksekliğine, zemin koşullarına ve beklenen deprem hareketine** göre belirlenir.
+
+Ama hedef hepsinde aynıdır:
+
+**Binanın deprem sırasında daha kontrollü hareket etmesini ve üstyapıya aktarılan deprem etkisinin azaltılmasını sağlamak.**
 
 ## Türkiye’deki Önemli Örnekler
 
@@ -160,101 +156,50 @@ Türkiye’de özellikle şehir hastanelerinde bu teknoloji yoğun şekilde kull
 * Adana Şehir Hastanesi
 * Elazığ Fethi Sekin Şehir Hastanesi
 
-gibi yapılarda binlerce sismik izolatör bulunuyor.
+gibi yapılarda sismik izolatörler bulunuyor.
 
-Bu hastaneler büyük depremler sırasında bile hizmet vermeye devam edecek şekilde tasarlandı.
-
----
-
-# Deprem Anında Gerçekten Ne Fark Ediyor?
-
-Normal bir binada:
-
-* Şiddetli sallantı oluşur
-* Mobilyalar devrilir
-* Kolon ve kirişlerde büyük stres oluşur
-
-Sismik izolatörlü yapılarda ise:
-
-* Sallantı daha yumuşak hissedilir
-* Yapısal yük azalır
-* İç ekipmanlar korunur
-
-Özellikle ameliyathaneler, yoğun bakımlar ve veri merkezleri için bu fark hayati önem taşır.
+Bu hastaneler büyük depremlerde bile hizmet vermeye devam edebilmesi için tasarlandı.
 
 ---
 
-## Görsel — Deprem Anı Karşılaştırması
+## Maliyet
 
-![Karşılaştırmalı Deprem Etkisi](https://cdn.jsdelivr.net/gh/Peloka-Software/Deprem.Blog@main/blog/posts/1/3.webp)
-
----
-
-# Dezavantajları Var mı?
-
-Evet.
-
-Bu sistemlerin bazı zorlukları bulunuyor.
-
-## 1. Maliyet
-
-Sismik izolatörlü binalar klasik yapılara göre daha pahalıdır.
+Sismik izolatörlü binalar klasik yapılara göre inşaat maliyetinde artış yaratır.
 
 Ancak:
 
-* Can kaybını azaltması
-* Yapının ayakta kalması
-* İş sürekliliği sağlaması
+* Can kaybını, yaralanmaları ve yapının alacağı hasarı engellemek,
+* Yapının deprem sonrasında kullanılabilir kalmasını sağlamak,
 
-uzun vadede maliyeti haklı çıkarabiliyor.
-
----
-
-## 2. Her Binaya Sonradan Uygulanması Zor
-
-Yeni yapılarda planlamak daha kolaydır.
-
-Mevcut eski binalarda uygulama:
-
-* Teknik olarak zor
-* Maliyetli
-* Uzun sürebilen
-
-bir süreç olabilir.
+Gibi hedefler karşılığında ödenecek bu maliyet aslında geleceğe dair bir yatırım niteliği taşıyor.
 
 ---
 
-# Gelecekte Ne Olacak?
+## Mevcut Binalara Sonradan Uygulanabilir mi?
 
-Önümüzdeki yıllarda:
+Evet, teknik olarak güçlendirme projelerinde mevcut binaların altına izolatör yerleştirmek mümkündür. 
 
-* Akıllı izolatör sistemleri
-* Yapay zekâ destekli deprem kontrol sistemleri
-* Sensör destekli gerçek zamanlı yapı analizi
+Ancak bu işlem:
 
-çok daha yaygın hale gelecek.
+* Bina altındaki kolonların teker teker askıya alınmasını gerektirdiği için teknik olarak oldukça karmaşıktır,
+* Klasik güçlendirme yöntemlerine göre maliyeti daha yüksektir,
+* Çalışmalar sırasında binanın tahliye edilmesi ve uzun bir inşaat sürecinin göze alınması gerekebilir.
 
-Özellikle Türkiye gibi deprem ülkelerinde bu teknolojinin standart hale gelmesi bekleniyor.
-
-Çünkü artık mesele yalnızca binanın ayakta kalması değil.
-
-İnsan hayatının, sağlık sisteminin ve şehir altyapısının deprem sonrası çalışmaya devam etmesi gerekiyor.
+Bu nedenle sistemin henüz projelendirme aşamasındaki sıfır binalara uygulanması çok daha pratik ve ekonomiktir.
 
 ---
 
-# Sonuç
+## Sonuç
 
 Sismik izolatörler, modern mühendisliğin depremle mücadelede geliştirdiği en etkili teknolojilerden biri.
 
 Bu sistemler:
+* İnsan hayatını kurtarıyor,
+* Binalarımızı koruyor,
+* Kritik yapıların çalışmaya devam edebilmesini sağlıyor.
 
-* Deprem enerjisini azaltıyor
-* Binaları koruyor
-* İnsan hayatını kurtarıyor
-* Kritik yapıların çalışmaya devam etmesini sağlıyor
+Türkiye gibi deprem ülkelerinde bu teknoloji artık lüks değil, zorunluluk olarak görülüyor.
 
-Türkiye gibi büyük deprem riski taşıyan bir ülkede bu teknoloji artık lüks değil, giderek bir zorunluluk haline geliyor.
-
-Belki gelecekte ev satın alırken insanlar şu soruyu soracak:
+Belki de ev satın alırken artık şu soruyu sormalıyız:
 
 > “Bu binada sismik izolatör var mı?”
