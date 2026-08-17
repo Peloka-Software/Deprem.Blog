@@ -4,7 +4,7 @@
 
 O gece sadece yer kabuğu kırılmadı; hayatlar, hayaller ve yarınlar bir daha eskisi gibi olmamak üzere yerle bir oldu.
 
-Saatler **03.02**'yi gösterdiğinde, tam **45 saniye** boyunca karanlık çöktü, zaman durdu...
+Saatler **03:02**'yi gösterdiğinde, tam **45 saniye** boyunca karanlık çöktü, zaman durdu...
 
 Peki, aradan geçen yıllara rağmen o geceyi neden hiç unutamadık?
 
@@ -14,7 +14,7 @@ Peki, aradan geçen yıllara rağmen o geceyi neden hiç unutamadık?
 
 ## "Sesimi Duyan Var Mı?"
 
-O geceden geriye kalan en can yakıcı cümle bu oldu.
+O geceden geriye kalan en yürek burkan cümle bu oldu.
 
 Karanlığın ve toz bulutlarının içinde yankılanan bu haykırış, hem çaresizliğin hem de umudun ortak diliydi:
 
@@ -22,7 +22,6 @@ Karanlığın ve toz bulutlarının içinde yankılanan bu haykırış, hem çar
 
 ---
 
-### Görsel — Umut ve Dayanışma
 ![Umut ve Dayanışma](https://cdn.jsdelivr.net/gh/Peloka-Software/Deprem.Blog@main/blog/posts/2/1.jpg)
 
 ---
@@ -37,11 +36,7 @@ Kocaeli, Sakarya, Yalova ve İstanbul başta olmak üzere tüm Marmara’yı sar
 * **Deprem Yönetmelikleri:** Yapı denetim sistemleri ve güvenli bina standartları kökten değişti.
 * **Kentsel Dönüşüm:** Hedef sadece "yıkılmayan" değil, afet sonrası "yaşamı sürdüren" yapılar inşa etmek oldu.
 
----
-
-## En Acı Ders
-
-Geriye dönüp baktığımızda 17 Ağustos bize şunu öğretti: 
+Geriye dönüp baktığımızda 17 Ağustos bize şunu öğretmişti: 
 
 > Depremi engelleyemeyiz ama ona hazır olabiliriz.
 
