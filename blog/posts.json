@@ -1,16 +1,16 @@
 [
     {
-        "id": 1,
-        "short-title": "Sismik İzolatörlü Yapılar",
-        "title": "Sismik İzolatörlü Yapılar: Depreme Karşı Akıllı Bir Mühendislik Çözümü",
-        "date": "2026-05-19",
-        "description": "Sismik izolatör teknolojisinin nasıl çalıştığını, Türkiye için neden kritik olduğunu ve modern deprem mühendisliğinde nasıl kullanıldığını detaylı şekilde anlatıyoruz."
-    },
-    {
         "id": 2,
         "short-title": "17 Ağustos 1999",
         "title": "17 Ağustos 1999: Zamanın Durduğu Gece",
         "date": "2026-08-17",
         "description": "45 saniyede değişen hayatlar: 17 Ağustos’un bıraktığı derin izler, unutamadığımız o çığlık."
+    },
+    {
+        "id": 1,
+        "short-title": "Sismik İzolatörlü Yapılar",
+        "title": "Sismik İzolatörlü Yapılar: Depreme Karşı Akıllı Bir Mühendislik Çözümü",
+        "date": "2026-05-19",
+        "description": "Sismik izolatör teknolojisinin nasıl çalıştığını, Türkiye için neden kritik olduğunu ve modern deprem mühendisliğinde nasıl kullanıldığını detaylı şekilde anlatıyoruz."
     }
 ]
