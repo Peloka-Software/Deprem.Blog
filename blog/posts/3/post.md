@@ -20,7 +20,7 @@ Bu durum sadece bir renk değişimi değildir:
 
 ### Görülmeyen Hasar: Korozyonun Etkisi
 
-![Korozyona Uğramış Betonarme Demiri](https://cdn.jsdelivr.net/gh/Peloka-Software/Deprem.Blog@main/blog/posts/3/1.webp)
+![Korozyona Uğramış Betonarme Demiri](https://cdn.jsdelivr.net/gh/Peloka-Software/Deprem.Blog@main/blog/posts/3/0.webp)
 
 ---
 
@@ -54,7 +54,7 @@ Su yalıtımının sağladığı temel avantajlar şunlardır:
 
 ### Görsel — Su Yalıtımı Uygulaması
 
-![Temel Su Yalıtımı](https://cdn.jsdelivr.net/gh/Peloka-Software/Deprem.Blog@main/blog/posts/3/2.webp)
+![Temel Su Yalıtımı](https://cdn.jsdelivr.net/gh/Peloka-Software/Deprem.Blog@main/blog/posts/3/1.webp)
 
 ---
 
