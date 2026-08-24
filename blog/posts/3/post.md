@@ -18,12 +18,6 @@ Bu durum sadece bir renk değişimi değildir:
 
 ---
 
-### Görülmeyen Hasar: Korozyonun Etkisi
-
-![Korozyona Uğramış Betonarme Demiri](https://cdn.jsdelivr.net/gh/Peloka-Software/Deprem.Blog@main/blog/posts/3/0.webp)
-
----
-
 ## Nem ve Su: Binanın Sessiz İstilacıları
 
 Su, bir yapıya üç farklı yoldan saldırır:
@@ -54,7 +48,7 @@ Su yalıtımının sağladığı temel avantajlar şunlardır:
 
 ### Görsel — Su Yalıtımı Uygulaması
 
-![Temel Su Yalıtımı](https://cdn.jsdelivr.net/gh/Peloka-Software/Deprem.Blog@main/blog/posts/3/1.webp)
+![Temel Su Yalıtımı](https://cdn.jsdelivr.net/gh/Peloka-Software/Deprem.Blog@main/blog/posts/3/1-1.webp)
 
 ---
 
